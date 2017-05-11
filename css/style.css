@@ -1,0 +1,13 @@
+body{
+   font-family: verdana;
+   text-align: center;
+   color: purple;
+   background: url("../img/ola.jpg");
+   object-fit: cover;
+
+}
+
+img{
+   max-width: 100%;
+   height: auto;
+}
