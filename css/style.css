@@ -18,7 +18,8 @@
   position: absolute;
   display: flex;
   justify-content: center;
-  color: 	#69147c;
+  color: 	#FFFFFF;
+  font-size: 100px;
   text-align: center;
 }
 /*responsive*/
